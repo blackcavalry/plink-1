@@ -5,7 +5,6 @@
 #include <stdexcept>
 #include <time.h>
 #include<stdlib.h>
-#include <drand.h>
 
 Data::Data(const char* bedfile, const char* famfile, bool verbose)
 {
