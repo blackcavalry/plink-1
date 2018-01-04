@@ -1,4 +1,7 @@
-
+#define MNWZ 0x100000000
+#define ANWZ 0x5DEECE66D
+#define CNWZ 0xB16
+#define INFINITY 0xFFFFFFFFF
 #include "data.hpp"
 #ifndef DRAND48_H  
 #define DRAND48_H  
