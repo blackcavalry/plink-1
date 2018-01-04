@@ -1,4 +1,4 @@
-
+#include<time>
 #include "data.hpp"
 #ifndef DRAND48_H  
 #define DRAND48_H  
