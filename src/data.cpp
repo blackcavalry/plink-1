@@ -1,6 +1,7 @@
 
 #include "data.hpp"
-
+#ifndef DRAND48_H
+#define DRAND48_H
 #include <fcntl.h>
 #include <stdexcept>
 #include <time.h>
